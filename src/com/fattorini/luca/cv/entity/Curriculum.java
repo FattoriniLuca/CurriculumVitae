@@ -66,7 +66,7 @@ public class Curriculum {
 	@Project({ "Quotidiano della Casa", "Quotidiano del Diritto" })
 	protected Experience consultantDeveloper;
 
-	@Company({ "Freelance", "Moleskine", "Prezzofelice" })
+	@Company({ "Freelance", "Moleskine", "Prezzofelice", "Neveitalia" })
 	@Period(start = "01/02/2013")
 	@Project({ "Tha Hand of The Architect", "The Hand of The Designer", "Prezzofelice", "Neveitalia" })
 	protected Experience freelanceDeveloper;
